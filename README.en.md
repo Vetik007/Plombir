@@ -6,7 +6,7 @@ This project was created with Parcel. For familiarization and setting additional
 
 1. Make sure you have an LTS version of Node.js installed on your computer.
    [Download and install](https://nodejs.org/en/) if needed.
-2. Clone this repository.
+2. Clone repository [https://github.com/Vetik007/parcel-project-template](https://github.com/Vetik007/parcel-project-template).
 3. Change the folder name from `parcel-project-template` to the name of your project.
 4. Create a new empty GitHub repository.
 5. Open the project in VSCode, launch the terminal and link the project to the GitHub repository
@@ -32,7 +32,6 @@ Scroll the page to the last section, in which make sure the options are selected
 ![GitHub actions settings](./assets/actions-config-step-2.png)
 
 The production version of the project will be automatically built and deployed to GitHub Pages, in the `gh-pages` branch, every time the `main` branch is updated. For example, after a direct push or an accepted pull request. To do this, you need to edit the `homepage` field and the `build` script in the `package.json` file, replacing `your_username` and `your_repo_name` with your own, and submit the changes to GitHub.
-
 
 ```json
 "homepage": "https://your_username.github.io/your_repo_name/",

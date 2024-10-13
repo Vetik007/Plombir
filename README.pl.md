@@ -7,7 +7,7 @@ skonfigurowania dodatkowych opcji [zobacz dokumentację](https://parceljs.org/)
 
 1. Upewnij się, że na komputerze zainstalowana jest wersja LTS Node.js.
    [Ściągnij i zainstaluj](https://nodejs.org/en/), jeśli jest taka potrzeba.
-2. Sklonuj to repozytorium.
+2. Sklonuj repozytorium [https://github.com/Vetik007/parcel-project-template](https://github.com/Vetik007/parcel-project-template).
 3. Zmień nazwę folderu z `parcel-project-template` na nazwę swojego projektu.
 4. Utwórz nowe, puste repozytorium na GitHub.
 5. Otwórz projekt w VSCode, uruchom terminal i zwiąż projekt z repozytorium
@@ -68,9 +68,9 @@ jeśli nie zrobiło się to automatycznie.
 Status deploymentu ostatniego commitu wyświetla się na ikonie obok jego
 identyfikatora.
 
-- ** Żółty kolor** - wykonuje się zbudowanie i deployment projektu.
-- ** Zielony kolor** - deployment zakończył się sukcesem.
-- ** Czerwony kolor** - w czasie lintingu, budowania lub deplymentu pojawił się
+- **Żółty kolor** - wykonuje się zbudowanie i deployment projektu.
+- **Zielony kolor** - deployment zakończył się sukcesem.
+- **Czerwony kolor** - w czasie lintingu, budowania lub deplymentu pojawił się
   błąd.
 
 Więcej informacji o statusie można zobaczyć klikając na ikonkę i w wyskakującym
