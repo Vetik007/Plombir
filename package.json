@@ -1,7 +1,7 @@
 {
   "name": "plombir",
   "version": "2.0.0",
-  "description": "Plombir",
+  "description": "plombir",
   "homepage": "https://github.com/Vetik007/Plombir",
   "scripts": {
     "start": "parcel src/*.html",
