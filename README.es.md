@@ -80,7 +80,7 @@ en el enlace `Details` de la ventana desplegable.
 Después de un tiempo, normalmente un par de minutos, la página activa se puede
 ver en la dirección especificada en la propiedad `homepage`. Por ejemplo, aquí
 está el enlace a la versión activa de este repositorio.
-[https://goitacademy.github.io/parcel-project-template](https://goitacademy.github.io/parcel-project-template).
+[https://github.com/Vetik007/Plombir](https://github.com/Vetik007/Plombir).
 
 Si se abre una página en blanco, asegúrese de que no haya errores en la pestaña
 `Console` relacionados con rutas incorrectas a los archivos CSS y JS del proyecto (**404**).
