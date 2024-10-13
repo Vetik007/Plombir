@@ -1,0 +1,38 @@
+{
+  "name": "plombiro",
+  "version": "2.0.0",
+  "description": "plombiro",
+  "homepage": "https://Ruslan-Karnaukh.github.io/plombiro",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /plombiro/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruslan-Karnaukh/plombiro.git"
+  },
+  "keywords": [],
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruslan-Karnaukh/plombiro/issues"
+  },
+  "dependencies": {
+    "@types/autosize": "^4.0.3",
+    "modern-normalize": "^1.1.0",
+    "tua-body-scroll-lock": "^1.5.1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "@typescript-eslint/eslint-plugin": "^5.51.0",
+    "@typescript-eslint/parser": "^5.51.0",
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-typescript": "^17.0.0",
+    "parcel": "^2.6.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4",
+    "typescript": "^4.9.3"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}

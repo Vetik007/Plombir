@@ -1,0 +1,29 @@
+:root {
+  // base color
+  --color-bg: #84a178;
+  --color-base: #131313;
+  --color-text: #000000;
+
+  // primary colors
+  --color-default: #f8d24e;
+  --color-focus: #fcfcfc;
+  --color-hover: #0a8817;
+  --color-disabled: #7a7a7a;
+
+  // cubic
+  --cubic: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+//  dots animation
+@keyframes dot-change {
+  0% {
+    transform: scale(1);
+    background-color: #D9D9D9;
+    ;
+  }
+
+  100% {
+    transform: scale(1.5);
+    background-color: #84A178;
+  }
+}
