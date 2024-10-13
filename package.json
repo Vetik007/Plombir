@@ -1,21 +1,21 @@
 {
-  "name": "plombiro",
+  "name": "plombir",
   "version": "2.0.0",
-  "description": "plombiro",
-  "homepage": "https://Ruslan-Karnaukh.github.io/plombiro",
+  "description": "Plombir",
+  "homepage": "https://github.com/Vetik007/Plombir",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /plombiro/"
+    "build": "parcel build src/*.html --public-url /Plombir/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ruslan-Karnaukh/plombiro.git"
+    "url": "git+https://github.com/Vetik007/Plombir.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Vitalii",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ruslan-Karnaukh/plombiro/issues"
+    "url": "https://github.com/Vetik007/Plombir/issues"
   },
   "dependencies": {
     "@types/autosize": "^4.0.3",
