@@ -18,7 +18,6 @@
     "url": "https://github.com/Vetik007/Plombir/issues"
   },
   "dependencies": {
-    "@types/autosize": "^4.0.3",
     "modern-normalize": "^1.1.0",
     "tua-body-scroll-lock": "^1.5.1"
   },
